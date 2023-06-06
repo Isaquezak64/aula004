@@ -1,0 +1,8 @@
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\bin\Debug\Aula004Leitura.exe.config
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\bin\Debug\Aula004Leitura.exe
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\bin\Debug\Aula004Leitura.pdb
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\obj\Debug\Aula004Leitura.csproj.AssemblyReference.cache
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\obj\Debug\Aula004Leitura.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\obj\Debug\Aula004Leitura.csproj.CoreCompileInputs.cache
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\obj\Debug\Aula004Leitura.exe
+C:\Users\isaque.santos2\source\repos\Aula004Leitura\Aula004Leitura\obj\Debug\Aula004Leitura.pdb
